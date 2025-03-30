@@ -5,4 +5,7 @@ int main(){
     cout << "Hello World";
     char str[100];
     cin >> str;
+    cout << "Hello World";
+    char str[100];
+    cin >> str;
 }
